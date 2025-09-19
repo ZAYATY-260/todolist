@@ -3,7 +3,15 @@ Here’s the full **README.md code** you can copy into your project:
 ````markdown
 # 📝 Simple ToDo App  
 
-<video src="public/demo.mp4" controls width="600"></video>
+## 🎥 Demo
+
+<video 
+  src="https://raw.githubusercontent.com/ZAYATY-260/todolist/master/public/demo.mp4" 
+  controls 
+  width="600"
+>
+  Your browser does not support the video tag.
+</video>
 
 A simple and modern ToDo List application built with **Next.js 14**, inspired by [this Figma design](https://www.figma.com/design/zTBZrZLYmAFIVjAijOJFpW/Simple-ToDo-List-Design--Community-?node-id=214-5&t=OzZb19z5oIq7RT9v-0).  
 Easily manage your tasks with add, edit, delete, search, and filter features — with **localStorage persistence**.  
@@ -104,7 +112,4 @@ The easiest way to deploy is with **Vercel** (from the creators of Next.js).
 Made with ❤️ by **Zeyad Zayaty**
 
 
-```
 
-Do you want me to also include a **"How It Works" demo GIF section** so users can see adding, editing, and deleting tasks visually in the README?
-```
