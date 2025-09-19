@@ -1,8 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Here’s the full **README.md code** you can copy into your project:
 
-## Getting Started
+````markdown
+# 📝 Simple ToDo App  
 
-First, run the development server:
+<video src="public/demo.mp4" controls width="600"></video>
+
+A simple and modern ToDo List application built with **Next.js 14**, inspired by [this Figma design](https://www.figma.com/design/zTBZrZLYmAFIVjAijOJFpW/Simple-ToDo-List-Design--Community-?node-id=214-5&t=OzZb19z5oIq7RT9v-0).  
+Easily manage your tasks with add, edit, delete, search, and filter features — with **localStorage persistence**.  
+
+---
+
+## ✨ Features  
+
+- ✅ Add new tasks with title & description  
+- ✅ Edit or delete tasks  
+- ✅ Mark tasks as complete (line-through)  
+- ✅ Search tasks by title   
+- ✅ Light/Dark theme toggle 🌙☀️  
+- ✅ Tasks saved in **localStorage**  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the repo  
+```bash
+git clone https://github.com/your-username/todo-app.git
+cd todo-app
+````
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+### 3️⃣ Run the development server
 
 ```bash
 npm run dev
@@ -14,23 +53,58 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 4️⃣ Open in browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Go to 👉 [http://localhost:3000](http://localhost:3000)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🖼️ Screenshots
 
-To learn more about Next.js, take a look at the following resources:
+> 💡 Add screenshots of your app here once it’s running. Example:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* **Home Page**
+  ![Home Page](public/screenshots/Home.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* **Add Task Modal**
+  ![Add Task](public/screenshots/add_task.png)
 
-## Deploy on Vercel
+* **Figma Design**
+  ![](public/screenshots/figma1.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+  ![ ](public/screenshots/figma2.png)
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Built With
+
+* [Next.js](https://nextjs.org/) – React Framework
+* [Tailwind CSS](https://tailwindcss.com/) – Styling
+* [Lucide Icons](https://lucide.dev/) – Icons
+* LocalStorage – Data persistence
+
+---
+
+## 📦 Deployment
+
+The easiest way to deploy is with **Vercel** (from the creators of Next.js).
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
+
+---
+
+## 📚 Learn More
+
+* [Next.js Documentation](https://nextjs.org/docs)
+* [Learn Next.js](https://nextjs.org/learn)
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by **Zeyad Zayaty**
+
+
+```
+
+Do you want me to also include a **"How It Works" demo GIF section** so users can see adding, editing, and deleting tasks visually in the README?
+```
