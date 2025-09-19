@@ -5,13 +5,7 @@ Here’s the full **README.md code** you can copy into your project:
 
 ## 🎥 Demo
 
-<video 
-  src="https://raw.githubusercontent.com/ZAYATY-260/todolist/master/public/demo.mp4" 
-  controls 
-  width="600"
->
-  Your browser does not support the video tag.
-</video>
+
 
 A simple and modern ToDo List application built with **Next.js 14**, inspired by [this Figma design](https://www.figma.com/design/zTBZrZLYmAFIVjAijOJFpW/Simple-ToDo-List-Design--Community-?node-id=214-5&t=OzZb19z5oIq7RT9v-0).  
 Easily manage your tasks with add, edit, delete, search, and filter features — with **localStorage persistence**.  
