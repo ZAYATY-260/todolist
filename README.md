@@ -1,12 +1,7 @@
 Here’s the full **README.md code** you can copy into your project:
-
+  ![Home Page](public/screenshots/Home.png)
 ````markdown
 # 📝 Simple ToDo App  
-
-## 🎥 Demo
-
-
-
 A simple and modern ToDo List application built with **Next.js 14**, inspired by [this Figma design](https://www.figma.com/design/zTBZrZLYmAFIVjAijOJFpW/Simple-ToDo-List-Design--Community-?node-id=214-5&t=OzZb19z5oIq7RT9v-0).  
 Easily manage your tasks with add, edit, delete, search, and filter features — with **localStorage persistence**.  
 
